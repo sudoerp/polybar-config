@@ -1,3 +1,5 @@
-## A minimal Polybar Config 
+# polybar-config
 
-Cloudflare WARP and Spotify module
+A minimal polybar config with spotify and cloudflare warp module
+
+![](screenshot/ss.png)
